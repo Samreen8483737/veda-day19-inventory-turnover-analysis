@@ -1,0 +1,1 @@
+# veda-day19-inventory-turnover-analysis
